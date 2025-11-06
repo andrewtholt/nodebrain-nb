@@ -275,7 +275,7 @@ nb_CFLAGS = -Wall -I../include
 nb_SOURCES = nb.c
 
 #nb_LDADD = .libs/libnb.so
-nb_LDADD = .libs/libnb.la
+nb_LDADD = .libs/libnb.la -lreadline
 #nb_DEPENDENCIES = .libs/libnb-${PACKAGE_VERSION}.so
 nb_DEPENDENCIES = libnb.la
 
