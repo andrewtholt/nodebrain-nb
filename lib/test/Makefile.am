@@ -53,7 +53,7 @@ EXTRA_DIST = \
   nbtest 
 
 AM_CFLAGS = -Wall -I../../include
-AM_LDFLAGS = -L../.libs -lnb
+AM_LDFLAGS = -L../.libs -lnb -lreadline
 
 eCellFunctions_SOURCES = eCellFunctions.c
 eNodeTerms_SOURCES = eNodeTerms.c

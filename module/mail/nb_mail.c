@@ -83,6 +83,7 @@
 */
 #include "config.h"
 #include <nb/nb.h>
+#include <nb/nbmail.h>
 
 void nbQueueCommit();
 

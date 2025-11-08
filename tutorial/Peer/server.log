@@ -1,0 +1,21 @@
+
+N o d e B r a i n   0.9.04 (Columbo) 2015-09-24
+
+Spec 0.0.904 built for x86_64-pc-linux-gnu
+
+Copyright (C) 2014-2015 Ed Trettevik <eat@nodebrain.org>
+MIT or NodeBrain License
+----------------------------------------------------------------
+
+/usr/local/bin/nb -d ./server 
+
+Date       Time     Message
+---------- -------- --------------------------------------------
+2025-11-07 13:51:47 NB000I NodeBrain nb[12580] andrewtholt60@penguin
+2025-11-07 13:51:47 NB000I Agent log is server.log
+2025-11-07 13:51:47 NB000W nbIpListen: Unable to unlink before bind - No such file or directory
+2025-11-07 13:51:47 NM000I peer.server myServer: Listening for NBP connections as buddy@./socket
+
+2025-11-07 13:57:16 NB000W SIGTERM - stopping
+> stop
+2025-11-07 13:57:16 NB000I NodeBrain nb[12580] terminating - exit code=0

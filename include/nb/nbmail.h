@@ -40,6 +40,8 @@
 #ifndef _NBMAIL_H_
 #define _NBMAIL_H_       /* never again */
 
+#include <nb/nbtls.h>
+
 extern int mailTrace;          // debugging trace flag for mail routines
 
 typedef struct NB_MAIL_CLIENT{
