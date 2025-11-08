@@ -41,6 +41,7 @@
 #ifndef _NBMSG_H_
 #define _NBMSG_H_       /* never again */
 
+#include <nb/nbpeer.h>
 #include <sys/un.h>
 
 //==================================================

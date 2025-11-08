@@ -43,6 +43,9 @@
 *==============================================================================
 */
 
+#include <nb/nbtls.h>
+#include <nb/nbproxy.h>
+
 //=============================================================================
 // Old Structures
 //   These structures will be referenced by new structures and eventually

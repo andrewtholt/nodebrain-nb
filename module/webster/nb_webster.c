@@ -78,6 +78,7 @@
 */
 #include "config.h"
 #include <nb/nb.h>
+#include <nb/nbwebster.h>
 
 #if defined(WIN32)
 
