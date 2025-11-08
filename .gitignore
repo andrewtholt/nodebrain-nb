@@ -12,7 +12,7 @@ nb
 !include/nb
 nodebrain
 nbTutorial.info
-configure
+# configure
 libtool
 config.h.in
 config.h
